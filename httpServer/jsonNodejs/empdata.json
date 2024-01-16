@@ -1,0 +1,20 @@
+[
+    {
+    "id":1,
+    "fname":"suvi",
+    "lnm":"kamble",
+    "address":{
+        "state":"maharashtra",
+        "city":"pune"
+    }
+},
+{
+    "id":2,
+    "fname":"suvi",
+    "lnm":"kamble",
+    "address":{
+        "state":"maharashtra",
+        "city":"pune"
+    }
+}
+]
